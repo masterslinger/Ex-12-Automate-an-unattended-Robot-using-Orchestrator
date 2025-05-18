@@ -58,5 +58,20 @@ View logs, time stamps, and robot execution details.
 ## OUTPUT:
 A process, published from UiPath Studio, is executed automatically without manual intervention via an unattended robot in Orchestrator.
 
+![image](https://github.com/user-attachments/assets/c924763a-e83e-402a-aab6-709f6db46076)
+
+![Screenshot 2025-05-18 115855](https://github.com/user-attachments/assets/befa9a85-ea5e-4b2c-9f74-5d6754effd40)
+
+![Screenshot 2025-05-18 115906](https://github.com/user-attachments/assets/a3581cdb-9c25-4c6b-b91c-e24584ec4901)
+
+![Screenshot 2025-05-18 120454](https://github.com/user-attachments/assets/2fad2291-b627-41ae-8723-6ca8d4ec49df)
+
+![Screenshot 2025-05-18 120207](https://github.com/user-attachments/assets/b4a60716-c06d-46b8-9e1a-7d4337d8318c)
+
+![Screenshot 2025-05-18 120231](https://github.com/user-attachments/assets/66ed17a2-f6bd-48c4-97a8-ce826491b20d)
+
+![Screenshot 2025-05-18 120248](https://github.com/user-attachments/assets/2f469c66-ee50-4c4b-9bb0-03346319d38f)
+
+![Screenshot 2025-05-18 120430](https://github.com/user-attachments/assets/c2253489-408c-467c-bdb3-904b37ae4a56)
 ## Result
 The automation process was successfully published, triggered, and executed as an unattended job using UiPath Orchestrator. This setup ensures automation can run without human presence at scheduled times.
