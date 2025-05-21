@@ -1,8 +1,8 @@
 # Ex-12-Automate-an-unattended-Robot-using-Orchestrator
 
 ~~~
-Name : JOHNPALL.M
-Reg.No : 212224040140
+Name : LALENTIKA TWISHA M
+Reg.No : 212224220052
 ~~~
 
 ## Aim
